@@ -97,3 +97,10 @@
     height: 300px;
   }
 }
+@media (max-width: 1400px) {
+  /* .img-pecas img {
+    width: 500px;
+    height: 90%;
+    border-radius: 10px;
+  } */
+}

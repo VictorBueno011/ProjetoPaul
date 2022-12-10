@@ -346,6 +346,14 @@ section .card-item {
   flex-direction: row;
   justify-content: space-evenly;
 }
+.img-pecas img {
+  margin-top: 2%;
+  border-radius: 10px;
+  width: 90%;
+}
+#texto-pecas p {
+  font-size: 18px;
+}
 
 .pecas .title-pecas {
   font-size: 20px;
