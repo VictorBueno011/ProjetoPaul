@@ -87,6 +87,9 @@
     padding: 20px;
     flex-direction: column;
   }
+  .img-pecas img {
+    width: 100%;
+  }
   .carousel-inner {
     margin: auto;
     width: 300px;
@@ -96,11 +99,4 @@
     width: 400px;
     height: 300px;
   }
-}
-@media (max-width: 1400px) {
-  /* .img-pecas img {
-    width: 500px;
-    height: 90%;
-    border-radius: 10px;
-  } */
 }
